@@ -27,7 +27,7 @@
 2. the definition of Training process see: TiDA-GCN/TiDA_Train.py
 3. the definition of Evaluating process see: TiDA-GCN/TiDA_Evaluation.py
 4. the preprocess of dataset see: TiDA-GCN/TiDA_Configuration.py
-5. the hyper-parameters of RL-ISN see: TiDA-GCN/TiDA_Settings.py
+5. the hyper-parameters of TiDA-GCN see: TiDA-GCN/TiDA_Settings.py
 6. to run the training method see: TiDA-GCN/TiDA_Main.py and the training log printer was defined in: TiDA-GCN/TiDA_printer.py
  * The directory named Checkpoint is used to save the trained models.
  * The familiar floder structure is also apply to DA-GCN.
